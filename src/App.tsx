@@ -33,7 +33,7 @@ export const App: React.FC = () => {
       <header>
         <div className="wrap">
           <a className="logo" href="#home" aria-label="Home">
-            Backend engineer
+            Backend Engineer
           </a>
           <nav aria-label="Primary">
             <a href="#home">Home</a>
@@ -80,7 +80,7 @@ export const App: React.FC = () => {
             </div>
             <div className="stats">
               <div className="stat">
-                <b>7.6</b>CGPA in B.Tech Computer Science Engineering (AI &amp; ML)
+                <b>7.5</b>CGPA in B.Tech Computer Science Engineering (AI &amp; ML)
               </div>
               <div className="stat">
                 <b>2</b>AI-powered projects built with LLMs and vector search
@@ -136,7 +136,7 @@ export const App: React.FC = () => {
               </p>
               <div className="edu">
                 <b>B.Tech, Computer Science Engineering (AI &amp; ML)</b>
-                <span>J.C. Bose University of Science and Technology, YMCA, Faridabad · 2023 – 2027 · CGPA 7.6</span>
+                <span>J.C. Bose University of Science and Technology, YMCA, Faridabad · 2023 – 2027 · CGPA 7.5</span>
               </div>
               <div className="langs">
                 <span>Hindi · Native</span>
@@ -149,7 +149,7 @@ export const App: React.FC = () => {
         {/* PROJECTS SECTION */}
         <section className="light" id="projects">
           <div className="wrap">
-            <h2 className="big">projects</h2>
+            <h2 className="big">Projects</h2>
             
             <article className="row">
               <div>
@@ -208,7 +208,7 @@ export const App: React.FC = () => {
         {/* SKILLS SECTION */}
         <section className="light" id="skills">
           <div className="wrap">
-            <h2 className="big">skills</h2>
+            <h2 className="big">Skills</h2>
             <div className="skills">
               <div className="sk">
                 <h3>Languages</h3>
